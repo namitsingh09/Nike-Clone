@@ -1,0 +1,33 @@
+.start {
+    
+    width: 90%;
+    height: 530px;
+    display: flex;
+    flex-direction: row;
+   margin-left: 4%;
+   flex-wrap: wrap;
+   margin-top: 50px;
+   gap: 0px;
+   
+   
+   
+}
+
+.start1 {
+    
+    
+flex: 1;
+
+}
+
+.start2 {
+  
+flex: 1;
+
+
+
+}
+
+#x {
+   height: 500px;
+}

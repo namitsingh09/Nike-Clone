@@ -1,0 +1,21 @@
+.sx {
+    
+    width: 96%;
+    display: flexbox;
+  margin-left: 2%;
+    margin-top: 5%;
+}
+
+#zx {
+    width: 80%;
+}
+
+#xz {
+    max-height: 400px;
+
+}
+
+#ksl {
+    margin-left: 5%;
+    
+}

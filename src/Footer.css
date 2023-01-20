@@ -1,0 +1,23 @@
+.pop {
+    margin-top: 30px;
+    height: 200px;
+    text-align: center;
+    font-size: large;
+    font-weight: 12rem;
+    background-color: rgba(0, 0, 0, 0.865);
+    display: flexbox;
+    color: white;
+}
+
+
+#jhg {
+    color:rgb(244, 238, 238);
+ margin-top: 12px;
+}
+
+#ns {
+    border-radius: 50%;
+    height: 100px;
+    margin-left: 45%;
+    margin-top: 30px;
+}
